@@ -1,0 +1,4 @@
+MT01,Toan
+S01,Sinh Hoc
+L01,Vat Ly
+H01,Hoa Hoc
